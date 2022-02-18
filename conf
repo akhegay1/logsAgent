@@ -3,7 +3,7 @@
 
 #comment
 logpath=/go/go_work/src/monitw/monitw.log
-collectHost=10.58.56.68
+collectHost=10.10.10.10
 
 #comment
 collectPort=3021
