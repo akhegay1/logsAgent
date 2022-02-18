@@ -1,0 +1,9 @@
+
+
+
+#comment
+logpath=/go/go_work/src/monitw/monitw.log
+collectHost=10.58.56.68
+
+#comment
+collectPort=3021
